@@ -1,0 +1,50 @@
+{
+    "name": "RUSHIKESH FALAK",
+    "email": "falakrushikesh83@gmail.com",
+    "phone": "+918200934605",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Django",
+      "Flask",
+      "ReactJS",
+      "MySQL",
+      "PostgreSQL",
+      "HTML",
+      "Git",
+      "CSS",
+      "MachineLearning"
+    ],
+    "education": [
+      {
+        "degree": "BTech in Computer Engineering",
+        "institution": "SilverOakUniversity,Ahmedabad",
+        "start_date": "Oct2020",
+        "end_date": "May2024",
+        "CGPA": "9.36"
+      },
+      {
+        "degree": "Class XII",
+        "institution": "VivekanandaHigherSecondarySchool",
+        "start_date": "April2020",
+        "end_date": null,
+        "percentage": "85%"
+      },
+      {
+        "degree": "Class X",
+        "institution": "SaraswatiVidyaMandir,Ahmedabad",
+        "start_date": "April2018",
+        "end_date": null,
+        "percentage": "81%"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Developer Intern",
+        "company": "eSparkBizTechnologiesPvtLtd.",
+        "start_date": "Jan2024",
+        "end_date": "Aug2024"
+      }
+    ]
+  }
