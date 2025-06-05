@@ -1,3 +1,5 @@
 resume/
 .venv
 .env
+/__pycache__/
+# Ignore Python cache files 
