@@ -3,6 +3,7 @@ This is an advanced PyMuPDF utility for detecting multi-column pages.
 It can be used in a shell script, or its main function can be imported and
 invoked as descript below.
 
+
 Features
 ---------
 - Identify text belonging to (a variable number of) columns on the page.
